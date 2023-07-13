@@ -104,6 +104,7 @@ img {
         place-content: center;
         margin: auto;
         grid-template-columns: auto auto auto;
+        justify-content: center;
     }
     .col-1 {
         grid-row: 1/3;
